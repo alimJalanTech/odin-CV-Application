@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: white;
+}
+
+.content {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  margin-left: 5%;
+  gap: 10px;
+}
